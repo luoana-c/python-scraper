@@ -17,7 +17,7 @@ ipaddress==1.0.22
 ipython-genutils==0.2.0
 jsonschema==2.6.0
 jupyter-core==4.4.0
-lxml==4.2.5
+lxml==4.6.5
 nbformat==4.4.0
 numpy==1.15.4
 pandas==0.23.4
